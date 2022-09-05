@@ -9,5 +9,5 @@
 作者：Sky-XiaoZhu<br>
 转载请注明作者，允许二次开发<br>
 感谢 莫得感情的发消息机器 粉丝一直以来的支持<br>
-                                                                        Sky-XiaoZhu<br>
-                                                                        2022/09/05
+<p align="right">Sky-XiaoZhu</p>
+<p align="right">2022/09/05</p>
